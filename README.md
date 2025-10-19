@@ -1,1 +1,1 @@
-# ds-project
+# Distributed Systems Exercises 2025
